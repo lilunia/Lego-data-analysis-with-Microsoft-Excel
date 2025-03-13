@@ -1,4 +1,6 @@
-LEGO sets released between 1970 and 2022, including details of set theme, number of pieces, recommended age, retail price and image.
+# LEGO sets released between 1970 and 2022
+
+The data of sets including details of set theme, number of pieces, recommended age, retail price and image.
 
 Questions to ask the data:
 
